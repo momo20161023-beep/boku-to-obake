@@ -24,3 +24,8 @@ htmlcov/
 
 # Local agent notes
 AGENTS.md
+
+# Environment variables
+.env
+.env.*
+!.env.example
